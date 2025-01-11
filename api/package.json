@@ -1,0 +1,23 @@
+{
+  "name": "connect_four_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrycmc/ConnectFour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Dmitrycmc/ConnectFour",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

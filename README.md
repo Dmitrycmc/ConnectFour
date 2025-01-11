@@ -1,2 +1,0 @@
-# ConnectFour
-Connect Four minigame
