@@ -16,8 +16,14 @@
   "license": "ISC",
   "homepage": "https://github.com/Dmitrycmc/ConnectFour",
   "devDependencies": {
+    "@types/express": "^5.0.0",
     "nodemon": "^3.0.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "openai": "^4.78.1"
   }
 }
